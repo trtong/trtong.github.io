@@ -13,7 +13,7 @@ var getAll = function (selector, scope) {
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `Hello, I'm Trinh!
-            I'm a software developer in training.
+            I'm a software developer from Philadelphia.
 
 
             Welcome to my portfolio!`;
